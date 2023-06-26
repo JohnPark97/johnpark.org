@@ -12,6 +12,10 @@ export default function Home() {
       <Link href="/skills">
         Skills
       </Link>
+      <br/>
+      <Link href="/tutoring">
+        Tutoring
+      </Link>
       </div>
     </main>
   )
